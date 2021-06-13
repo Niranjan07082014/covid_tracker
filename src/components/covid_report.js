@@ -21,7 +21,7 @@ const Covid = () => {
 	return (
 			<>
 				<section className="card container grid">
-					<h2>COVID-19 CORONAVIRUS TRACKER</h2>
+					<h2 className="top__header">COVID-19 CORONAVIRUS TRACKER</h2>
 					<div className="card__container grid">
 					
 						<article className="card__content grid">

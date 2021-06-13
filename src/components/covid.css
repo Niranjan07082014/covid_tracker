@@ -71,6 +71,9 @@ img {
 }
 
 /*==================== REUSABLE CSS CLASSES ====================*/
+.top__header{
+  margin-bottom: 25px;
+}
 .container {
 	max-width: 1024px;
 	margin-left: var(--mb-1-5);
